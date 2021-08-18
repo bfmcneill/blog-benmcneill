@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: Newletter
+    url: 'https://bfmcneill.substack.com/'
+    desc: Get my weekly developer tips straight to your inbox
+  - title: Podcast
+    url: 'https://anchor.fm/profitablepythonfm'
+    desc: The show is devoted to the Python developers who want to meet amazing humans and take their skills to the next level.
+  - title: Blog
+    url: 'https://benfranklynmcneill.com/blog'
+    desc: I share everything I know about building software in the real world
+  - title: FREE - Self Taught Developer Guide
+    url: 'https://tailwindcss.com/'
+    desc: Coming Soon...Everything I wish I new before becoming a professional software developer
