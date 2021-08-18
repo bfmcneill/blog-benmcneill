@@ -8,3 +8,7 @@ tags:
 ---
 
 Learning in the open
+
+> How js reduce functions work
+
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@bfmcneill/ztm-javascript-logic-q1?lite=true"></iframe>
